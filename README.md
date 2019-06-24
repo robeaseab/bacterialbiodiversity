@@ -10,4 +10,4 @@ In this assignment, I Used Plotly.js, Flask, SQLAlchemy, Bootstrap, and Heroku t
 
 Link to my Heroku App: [Bacterial Biodiversity](https://bacterialbiodiversity.herokuapp.com/)
 
-![Heroku Screenshot](http://url/to/img.png)
+![Heroku Screenshot](https://raw.githubusercontent.com/robeaseab/bacterialbiodiversity/master/Screenshot_2019-06-24%20Biodiversity%20Dashboard.png)
