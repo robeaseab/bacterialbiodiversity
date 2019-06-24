@@ -8,4 +8,6 @@ In this assignment, I Used Plotly.js, Flask, SQLAlchemy, Bootstrap, and Heroku t
 * All plots are updated any time that a new sample is selected.
 * Flask app was deployed to Heroku.
 
-Link to Heroku App: [Bacterial Biodiversity](https://bacterialbiodiversity.herokuapp.com/)
+Link to my Heroku App: [Bacterial Biodiversity](https://bacterialbiodiversity.herokuapp.com/)
+
+![Heroku Screenshot](http://url/to/img.png)
